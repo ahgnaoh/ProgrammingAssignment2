@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Set the matrix, get the matrix, set the inverse of the matrix, get the inverse of the matrix
 
 makeCacheMatrix <- function(M = matrix()) {
         invM <- NULL
